@@ -30,6 +30,9 @@ POSSIBILITY OF SUCH DAMAGE.
 <script>
 
     $( document ).ready(function() {
+        $("#grid-clients").UIBootgrid({
+                del:'/api/captiveportal/session/disconnect/'
+        });
         /**
          * update zone list
          */
