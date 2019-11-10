@@ -134,13 +134,13 @@ POSSIBILITY OF SUCH DAMAGE.
                 <tbody>
                 </tbody>
                 <tfoot>
-                </tfoot>
                 <tr>
                    <td></td>
                    <td>
                    <button data-action="deleteSelected" type="button" class="btn btn-xs btn-default"><span class="fa fa-trash-o"></span></button>
                    </td>
                 </tr>
+                </tfoot>
             </table>
             </div>
         </div>
